@@ -1,8 +1,7 @@
 .dark-bg{
   background-image:url("../assets/img/Proje-img/computer-2.jpg");
   background-size: cover;
-  background-position: ;
-  background-color: ;
+  background-position: center;
 }
 
 #hero .container{
